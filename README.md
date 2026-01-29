@@ -1,51 +1,17 @@
-👋 Hey there, I’m Rahul Joshi
+👋 Hey there, I’m Rahul
 
-Welcome to my corner of GitHub — where code, curiosity, and caffeine meet. ☕💻
-
-I’m a Computer Science undergraduate, Backend & ML enthusiast, and someone who genuinely enjoys turning ideas into scalable, real-world systems. From building APIs to training ML models and experimenting with RAG pipelines — I love getting my hands dirty with tech that actually works in production.
-
-⸻
-
-🚀 About Me
-	•	B.Tech CSE student with strong foundations in DSA, OS, DBMS, CN, and ML
-	•	Backend + Machine Learning focused
-	•	Passionate about building efficient, maintainable, and scalable systems
-	•	Always learning, always shipping
+A Computer Science undergraduate, Backend & ML enthusiast, and someone who genuinely enjoys turning ideas into scalable, real-world systems. From building APIs to training ML models and experimenting with RAG pipelines — I love getting my hands dirty with tech that actually works in production.
 
 I believe in learning by building. Tutorials are cool, but shipping projects is cooler.
 
 ⸻
 
-🛠️ Tech Stack
-
-Languages
-	•	Python, C/C++, Java, JavaScript, SQL
-
-Frameworks & Libraries
-	•	Django, FastAPI, React, Next.js, TailwindCSS
-
-AI / ML
-	•	NumPy, Pandas, Scikit-learn, PyTorch
-	•	RAG, FAISS, Vector DBs, ChromaDB
-
-Databases
-	•	PostgreSQL, MongoDB, SQL
-
-Tools
-	•	Git, Postman, Streamlit, GCP, WordPress, Zoho Suite
-
-Basically: if it involves data, APIs, or automation — I’m interested. 😄
-
-⸻
-
 📌 Featured Projects
 
-✨ ClipBeat — Music detection in short-form videos (Streamlit)
-💱 Currency Conversion API — FastAPI service for fetching and serving daily currency conversion rates with automatic scheduling, database-agnostic design, and REST API
-💼 urWallet Backend — Secure and scalable backend system for digital wallet operations
-📱 urWallet Frontend — User-friendly frontend interface for seamless wallet management
-
-Each project here represents learning, debugging, refactoring… and learning again.
+ClipBeat — Music detection in short-form videos (Streamlit)
+Currency Conversion API — FastAPI service for fetching and serving daily currency conversion rates with automatic scheduling, database-agnostic design, and REST API
+urWallet Backend — Secure and scalable backend system for digital wallet operations
+urWallet Frontend — User-friendly frontend interface for seamless wallet management
 
 ⸻
 
