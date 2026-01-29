@@ -7,15 +7,15 @@ I believe in learning by building. Tutorials are cool, but shipping projects is 
 ⸻
 
 📌 Featured Projects
-
-ClipBeat — Music detection in short-form videos (Streamlit)
-Currency Conversion API — FastAPI service for fetching and serving daily currency conversion rates with automatic scheduling, database-agnostic design, and REST API
-urWallet Backend — Secure and scalable backend system for digital wallet operations
-urWallet Frontend — User-friendly frontend interface for seamless wallet management
+\n
+ClipBeat — Music detection in short-form videos (Streamlit)\n
+Currency Conversion API — FastAPI service for fetching and serving daily currency conversion rates with automatic scheduling, database-agnostic design, and REST API\n
+urWallet Backend — Secure and scalable backend system for digital wallet operations\n
+urWallet Frontend — User-friendly frontend interface for seamless wallet management\n
 
 ⸻
 
-🌱 What I’m Working On
+🌱 What I’m Working On \n
 	•	Advanced RAG pipelines
 	•	ML-powered applications
 	•	High-performance backend systems
