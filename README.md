@@ -7,10 +7,10 @@ I’m a Computer Science undergraduate, Backend & ML enthusiast, and someone who
 ⸻
 
 🚀 About Me
-	•	🎓 B.Tech CSE student with strong foundations in DSA, OS, DBMS, CN, and ML
-	•	🧠 Backend + Machine Learning focused
-	•	⚙️ Passionate about building efficient, maintainable, and scalable systems
-	•	📈 Always learning, always shipping
+	•	B.Tech CSE student with strong foundations in DSA, OS, DBMS, CN, and ML
+	•	Backend + Machine Learning focused
+	•	Passionate about building efficient, maintainable, and scalable systems
+	•	Always learning, always shipping
 
 I believe in learning by building. Tutorials are cool, but shipping projects is cooler.
 
@@ -40,9 +40,10 @@ Basically: if it involves data, APIs, or automation — I’m interested. 😄
 
 📌 Featured Projects
 
-✨ AstroSutra — RAG-based astrological chatbot
-🎵 ClipBeat — Music detection in short videos (Streamlit)
-🎬 Movie Review Analyzer — NLP sentiment classifier
+✨ ClipBeat — Music detection in short-form videos (Streamlit)
+💱 Currency Conversion API — FastAPI service for fetching and serving daily currency conversion rates with automatic scheduling, database-agnostic design, and REST API
+💼 urWallet Backend — Secure and scalable backend system for digital wallet operations
+📱 urWallet Frontend — User-friendly frontend interface for seamless wallet management
 
 Each project here represents learning, debugging, refactoring… and learning again.
 
