@@ -28,9 +28,9 @@ If it’s challenging, I’m probably interested.
 
 🤝 Let’s Connect
 
-📧 Email: rjdeep0301@gmail.com
-💼 LinkedIn: linkedin.com/in/rxhuljoshi
-🌐 GitHub: github.com/rxhuljoshi
+	•	📧 Email: rjdeep0301@gmail.com
+	•	💼 LinkedIn: linkedin.com/in/rxhuljoshi
+	•	🌐 GitHub: github.com/rxhuljoshi
 
 Always open to collaborations, internships, research, and cool ideas.
 
